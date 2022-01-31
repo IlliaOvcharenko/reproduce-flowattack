@@ -1,4 +1,4 @@
-# Reproduce "Attacking Optical Flow"
+# 🦆  Reproduce "Attacking Optical Flow"
 
 ## Results
 All models were trained on FlyingChairs dataset. A set of 1000 test images was also selected from FlyingChairs. Patch size is 50x50 pixels.
@@ -19,3 +19,6 @@ All models were trained on FlyingChairs dataset. A set of 1000 test images was a
 - [ ] metrics all, without patch, inside patch only
 - [ ] average runs with different seeds
 - [ ] add automatic result table generation
+- [ ] check if model weights are identical
+- [ ] universal patch was not optimised for raft
+
