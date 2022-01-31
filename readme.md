@@ -1,4 +1,5 @@
 # 🦆  Reproduce "Attacking Optical Flow"
+original paper: https://arxiv.org/pdf/1910.10053.pdf
 
 ## Results
 All models were trained on FlyingChairs dataset. A set of 1000 test images was also selected from FlyingChairs. Patch size is 50x50 pixels.
